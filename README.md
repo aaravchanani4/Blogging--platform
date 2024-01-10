@@ -1,1 +1,1 @@
-# Blogging--platform
+# Blogging-platform
